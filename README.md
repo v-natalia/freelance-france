@@ -1,4 +1,4 @@
-#  Devenir freelance en France
+#  Devenir freelance en France :fr:
 ## Des ressources pour demarrer
 
 Je vais ajouter des ressources dès que je trouve quelque chose d'intéressant.
