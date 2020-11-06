@@ -1,7 +1,7 @@
 #  Devenir freelance en France
-## Des resources pour demarrer
+## Des ressources pour demarrer
 
-Je vais ajouter des resources dès que je trouve quelque chose d'intéressant.
+Je vais ajouter des ressources dès que je trouve quelque chose d'intéressant.
 
 
 Sujet | URL
