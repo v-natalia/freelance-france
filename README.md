@@ -54,7 +54,9 @@ Slimvoice| [Link](https://slimvoice.co/)
 And.co| [Link](https://www.and.co/)
 Freelancer| [Link](https://freelancer-app.fr/)
 
-Autres statuts juridiques
+##Autres statuts juridiques
+Sujet | URL
+------------ | -------------
 EIRL| [Link](https://bofip.impots.gouv.fr/bofip/7008-PGP.html/identifiant=BOI-BIC-CHAMP-70-30-20190710)
 Micro-entreprises| [Link](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006199553/2020-12-31/)
 EIRL| [Link](http://www.eirl.fr/vos_partenaires)
