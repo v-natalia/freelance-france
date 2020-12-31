@@ -1,4 +1,4 @@
-#  Devenir freelance en France :fr:
+#  Devenir freelance en France :fr: - Demarrer en Auto-Entreprise.
 ## Des ressources pour demarrer
 
 Je vais ajouter des ressources dès que je trouve quelque chose d'intéressant.
