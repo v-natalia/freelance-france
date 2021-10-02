@@ -1,8 +1,8 @@
 #  Devenir freelance en France :fr: - Demarrer en Auto-Entreprise.
 ## Des ressources pour demarrer
 
-Je vais ajouter des ressources dès que je trouve quelque chose d'intéressant.
-
+Tous les liens et ressources consignés ici ont été utiles pour moi pour pouvoir démarrer en tant que freelance en France (2019).
+Quel statut juridique choisir, demarches administratives, comment traiter les clients, etc.
 
 Sujet | URL
 ------------ | -------------
@@ -65,4 +65,4 @@ EIRL| [Link](http://www.eirl.fr/vos_partenaires)
 | [Link]()
 | [Link]()
 | [Link]() -->
-
+Edited in Oct 2021.
